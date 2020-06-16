@@ -1,3 +1,12 @@
+/*
+Es una clase 'leaf'.
+
+Esta clase almacena tanto el nombre, id empleado y posición de un empleado Manager,
+implementa la interfaz Employee con el fin de ajustar el método showEmployeeDetails().
+
+*/
+
+
 public class Manager implements Employee 
 { 
     private String name; 
@@ -8,7 +17,7 @@ public class Manager implements Employee
     { 
         this.empId = empId; 
         this.name = name; 
-                this.position = position; 
+        this.position = position; 
     } 
       
     @Override
