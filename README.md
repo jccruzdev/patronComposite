@@ -1,2 +1,2 @@
 # patronComposite
-Trabajo para Ambientes de desarrollo sobre el patrón Composite
+Trabajo Código de ejemplo para la materia Ambientes de desarrollo sobre el patrón Composite
